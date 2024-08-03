@@ -2,8 +2,8 @@
 
 - 🎂 Tenho 20 anos.
 - 🔭 Hoje trabalho com Desenvolvimento de Software (Júnior), com foco em Front-End
-- 🌱 Estudando Vue.js, React e Python
-- 🎓 Cursando Segurança da Informação (4º Semestre)
+- 🌱 Estudando Vue.js, React e teste unitário (Jest, Vitest)
+- 🎓 Cursando Segurança da Informação (6º Semestre)
 
 <div>
   <a href="https://github.com/CarolMarchesin">
