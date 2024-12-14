@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Caroline Marchesin da Silva 👋
 
-- 🎂 Tenho 20 anos.
+- 🎂 Tenho 21 anos.
 - 🔭 Hoje trabalho com Desenvolvimento de Software (Júnior), com foco em Front-End
 - 🌱 Estudando Vue.js, React e teste unitário (Jest, Vitest)
-- 🎓 Cursando Segurança da Informação (6º Semestre)
+- 🎓 Segurança da Informação
 <br>
 <div>
   <a href="https://github.com/CarolMarchesin">
