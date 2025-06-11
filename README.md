@@ -1,9 +1,8 @@
 ### Olá! Eu sou a Caroline Marchesin da Silva 👋
 
 - 🎂 Tenho 21 anos
-- 🔭 Hoje trabalho com Desenvolvimento de Software (Júnior), com foco em Front-End
-- 🌱 Estudando Vue.js, React e teste unitário (Jest, Vitest)
-- 🎓 Segurança da Informação
+- 🔭 Trabalho com Desenvolvimento de Software, com foco em Front-End
+- 🎓 Graduada em Segurança da Informação
 <br>
 <div>
   <a href="https://github.com/CarolMarchesin">
@@ -23,7 +22,8 @@
 ##
 
 <div> 
+  <a href="https://portifolio-caroline.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23fca311?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
   <a href = "mailto:carol_marchesin@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carolinemarchesindasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/carolinemarchesindasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
